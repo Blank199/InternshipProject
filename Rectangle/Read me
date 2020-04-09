@@ -1,0 +1,6 @@
+Am implementat o functie care verifica daca 4 puncte pot forma un dreptunghi, verificand daca coordonata X cat si coordonata Y
+au exact 2 valori.
+
+Apoi am generat toate combinarile de cate 4 puncte si le-am testat.
+Avand la dispozitie 2 posibilitati, dupa cum urmeaza: una de implementare a functiei de combinari si una de a folosi libraria "itertools"
+din Python, pentru acest proiect am luat in considerare prima varianta.
